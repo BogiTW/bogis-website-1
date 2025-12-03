@@ -1,1 +1,1 @@
-# personal-website-1
+# bogis-website-1
